@@ -2,11 +2,7 @@
 
 <br />
 <div align="center">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
-  <!-- <a href="https://github.com/othneildrew/Best-README-Template"> -->
-  <!--   <!-- <img src="images/logo.png" alt="Logo" width="80" height="80"> --> -->
-  <!---->
-  <!-- </a> -->
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
 
   <h3 align="center">Cli-Cloud-File-Uploader</h3>
 
