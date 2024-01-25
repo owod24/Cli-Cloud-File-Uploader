@@ -2,7 +2,7 @@
 
 <br />
 <div align="center">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+   <!-- <img src="images/logo.png" alt="Logo" width="80" height="80"> -->
 
   <h3 align="center">Cli-Cloud-File-Uploader</h3>
 
