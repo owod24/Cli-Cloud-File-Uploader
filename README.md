@@ -43,7 +43,7 @@
 
 ## About The PROJECT
 
-### Built built-with
+### Built With
 
 <!-- GETTING STARTED -->
 
