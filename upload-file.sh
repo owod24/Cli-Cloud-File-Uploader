@@ -1,9 +1,24 @@
 #!/bin/bash
+
+# set -x
+
 S3_BUCKET_NAME="s3://007file-upload-bucket/"
 MAX_FILE_SIZE_BYTES=104857600  # 100 MB limit
+
 prompt_user(){
   echo -n "Enter File Path: " && read -r filepath
   filename=$(basename "$filepath")
+  # echo -n "Enter File Paths (separated by space): " && read -r filepaths
+  # IFS=' ' read -a  filepath_array <<< "$filepaths"
+  #
+  # # Loop through each filepath to extract and store basenames
+  # for filepath in "${filepath_array[@]}"; do
+  #   filename=$(basename "$filepath")
+  #   filename_array+=("$filename")
+  #
+  #   echo "$filename"
+  # done
+
 }
 
 print_error(){
@@ -43,7 +58,7 @@ validate_upload_file() {
 
 s3_file_exists() {
   
-  aws s3 ls "$S3_BUCKET_NAME/$filepath" > output.txt;
+  aws s3 ls "$S3_BUCKET_NAME$filepath" > output.txt;
 
   if  grep -q "$filepath" output.txt; then
     echo "File already exists in S3: $filepath"
