@@ -77,11 +77,11 @@ Enter the paths of the files you wish to upload when prompted, separated by spac
 
 ## Roadmap
 
-[] Create user functionality using IAM
-[] Create Menu for operations(Upload, Rename, Delete).
-[] Add progress bar animation for operations
-[] Add encryption before upload and decryption on Download
-[] Package and Distribute
+- [ ] Create user functionality using IAM
+- [ ] Create Menu for operations(Upload, Rename, Delete).
+- [ ] Add progress bar animation for operations
+- [ ] Add encryption before upload and decryption on Download
+- [ ] Package and Distribute
 
 ## Contact
 
