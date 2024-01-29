@@ -63,7 +63,7 @@ Bash shell environment.
 
 ### Installation
 
-To use the Cli-Cloud-File-Uploader script:
+To use the script:
 
 Download the script to your local machine.
 Ensure it has executable permissions (chmod +x upload-file.sh).
@@ -72,7 +72,7 @@ Ensure it has executable permissions (chmod +x upload-file.sh).
 
 To upload files to your S3 bucket using this script:
 
-Run the script in your terminal: ./Cli-Cloud-File-Uploader.sh.
+Run the script in your terminal: ./upload-file.sh or source upload-file.sh.
 Enter the paths of the files you wish to upload when prompted, separated by space.
 
 ## Roadmap
