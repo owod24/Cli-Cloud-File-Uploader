@@ -41,13 +41,11 @@
 
 ## About The PROJECT
 
-The Cloud-File-Uploader is a utility designed to simplify the process of uploading files to an AWS S3 bucket, serving both as a practical tool for organizations and a personal journey in cloud engineering.This script is an attempt to gaina deeper understanding of cloud technologies and to enhance my skills as a cloud engineer.
+The Cloud-File-Uploader is a utility designed to simplify the process of uploading files to an AWS S3 bucket, serving both as a practical tool for organizations and a personal journey in cloud engineering.This script is an attempt to gain a deeper understanding of cloud technologies and to enhance my skills as a cloud engineer.
 
 Developed with the intent to tackle real-world cloud computing challenges, this tool streamlines the file upload process by handling checks for file existence, size limitations, and duplicity in the target S3 bucket. It allows users to easily upload multiple files at once, making it an efficient solution for managing file uploads in a cloud environment.
 
 ### Built With
-
-This project is built using:
 
 - Bash scripting
 - AWS CLI
@@ -79,8 +77,13 @@ Enter the paths of the files you wish to upload when prompted, separated by spac
 - [ ] Create Menu for operations(Upload, Rename, Delete).
 - [ ] Add progress bar animation for operations
 - [ ] Add encryption before upload and decryption on Download
-- [ ] Package and Distribute
 
 ## Contact
 
+For any inquiries or further discussion regarding this project, feel free to connect with me on LinkedIn:
+
+- <p>LinkedIn: </p> <[LinkedIn](https://www.linkedin.com/in/damilola-owolabi-bb0a851ab/)
+
 ## Acknowledgments
+
+I want to acknowledge the
