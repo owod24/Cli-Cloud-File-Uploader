@@ -80,9 +80,9 @@ Enter the paths of the files you wish to upload when prompted, separated by spac
 
 ## Contact
 
-For any inquiries or further discussion regarding this project, feel free to connect with me on LinkedIn:
+For any inquiries or further discussion regarding this project, feel free to connect with me on:
 
-- <p>LinkedIn: </p> <[LinkedIn](https://www.linkedin.com/in/damilola-owolabi-bb0a851ab/)
+- LinkedIn: [Owolabi Damilola](https://www.linkedin.com/in/damilola-owolabi-bb0a851ab/)
 
 ## Acknowledgments
 
